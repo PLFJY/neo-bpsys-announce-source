@@ -5,10 +5,10 @@
       "id": "20261008-001",
       "path": "announcements/20261008-001.json",
       "publishedAt": "2026-10-08T02:55:01.000Z",
-      "updatedAt": "2026-10-08T02:56:33.485Z",
+      "updatedAt": "2026-10-08T03:15:09.846Z",
       "enabled": true,
-      "revision": 1,
-      "sha256": "2fd645aab76e1fcc741c79e901a34955069f6abfcbbd1295d3dc93ccf863c3d9",
+      "revision": 2,
+      "sha256": "5d7e1f3c267bf4b4a34b6125de5648ce56aabfaae93ebe42a062ad2f8ed36c72",
       "minAppVersion": null,
       "maxAppVersion": null,
       "channels": [
