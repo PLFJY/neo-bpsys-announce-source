@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "announcements": [
+    {
+      "id": "20261008-001",
+      "path": "announcements/20261008-001.json",
+      "publishedAt": "2026-10-08T02:55:01.000Z",
+      "updatedAt": "2026-10-08T02:56:33.485Z",
+      "enabled": true,
+      "revision": 1,
+      "sha256": "2fd645aab76e1fcc741c79e901a34955069f6abfcbbd1295d3dc93ccf863c3d9",
+      "minAppVersion": null,
+      "maxAppVersion": null,
+      "channels": [
+        "release",
+        "beta",
+        "preview"
+      ]
+    }
+  ]
+}
