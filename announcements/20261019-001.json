@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "20261019-001",
+  "publishedAt": "2026-10-19T10:19:52.000Z",
+  "updatedAt": "2026-10-19T10:24:51.517Z",
+  "level": "info",
+  "title": {
+    "zh-CN": "请帮我给项目的 GitHub 仓库点一个 Star",
+    "en-US": "",
+    "ja-JP": ""
+  },
+  "content": {
+    "zh-CN": "看到这条公告的各位，如果可以，请到 GitHub 平台给我的项目点一个 Star，如图所示\n\n如果上不去这个网站的话就算了，如果能成功上去，那么请注册一个账号并帮助我点亮这个星，以支持我对该项目的持续维护和更新\n\n![Github 页面截图](https://typora-assets.plfjy.top/2026.10/19/image-20261019182156673.png)",
+    "en-US": "",
+    "ja-JP": ""
+  },
+  "minAppVersion": null,
+  "maxAppVersion": null,
+  "channels": [
+    "release",
+    "beta",
+    "preview"
+  ]
+}
