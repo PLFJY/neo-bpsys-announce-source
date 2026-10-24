@@ -2,6 +2,22 @@
   "schemaVersion": 1,
   "announcements": [
     {
+      "id": "20261025-001",
+      "path": "announcements/20261025-001.json",
+      "publishedAt": "2026-10-24T16:03:13.000Z",
+      "updatedAt": "2026-10-24T16:04:22.832Z",
+      "enabled": true,
+      "revision": 1,
+      "sha256": "58a2900fe42bb7183e8c2ee1d875af20fad7530098cffb8e8471acb03436091c",
+      "minAppVersion": null,
+      "maxAppVersion": null,
+      "channels": [
+        "release",
+        "beta",
+        "preview"
+      ]
+    },
+    {
       "id": "20261019-001",
       "path": "announcements/20261019-001.json",
       "publishedAt": "2026-10-19T10:19:52.000Z",
